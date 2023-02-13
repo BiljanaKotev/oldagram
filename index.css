@@ -1,0 +1,126 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f5f5f5;
+  color: #000;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.artist-container,
+.main-img {
+  max-width: 375px;
+}
+
+.main-container {
+  background: white;
+  margin: 50px auto;
+  max-width: 375px;
+}
+
+h1,
+h2 {
+  margin: 0;
+}
+
+h1 {
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 16.34px;
+}
+
+h2 {
+  font-size: 12px;
+  font-weight: 400;
+  top: 10px;
+}
+
+.logo {
+  width: 127px;
+}
+
+.user-avatar,
+.avatar-one {
+  border-radius: 50%;
+}
+
+.user-avatar {
+  height: 36px;
+  width: 36px;
+}
+
+.header-container {
+  align-items: center;
+  border-bottom: 1px solid #c6c6c6;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 10px 15px;
+  max-width: 345px;
+}
+
+.artist-container {
+  display: flex;
+  gap: 5px;
+  margin: 11px auto;
+}
+
+.avatar-one {
+  height: 34px;
+  width: 34px;
+  margin-left: 10px;
+}
+
+.main-img {
+  display: flex;
+  justify-content: center;
+  margin-top: 11px;
+  width: 100%;
+}
+
+.icon-container {
+  display: flex;
+  margin: 20px auto;
+  gap: 15px;
+  padding-left: 10px;
+}
+
+.icon {
+  width: 24px;
+}
+
+p,
+span {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+span {
+  font-weight: 400;
+}
+
+.bottom-section {
+  padding: 0 0 15px 10px;
+}
+
+button {
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.heart:hover,
+.comment:hover,
+.dm:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  transform: scale(1.2);
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
