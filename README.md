@@ -7,11 +7,11 @@ This is the solution to the Scrimba module 4 CSS Fundamentals Solo Project. I pr
 
  ### Screenshot
 
-![Screenshot of news homepage mobile](images/biljanakotev.github.io_oldagram.io_oldagram_.png?raw=true "Mobile Screenshot")
+![Screenshot of oldagram desktop](https://github.com/BiljanaKotev/oldagram/blob/main/images/biljanakotev.github.io_oldagram_.png "Desktop Screenshot") 
 
 
 
-- Solution URL [Add solution URL here] (https://github.com/BiljanaKotev/frontend-mentor-news-homepage)
+- Solution URL [Add solution URL here] (https://github.com/BiljanaKotev/oldagram)
 - Live Site URL [Add live site URL here] (https://biljanakotev.github.io/oldagram/)
 
 - Semantic HTML5 markup
