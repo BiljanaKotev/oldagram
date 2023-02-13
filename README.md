@@ -1,13 +1,32 @@
-# co2274297820a9405442e3a2a
+#Scrimba-oldagram
 
-Quick start:
+https://biljanakotev.github.io/oldagram/
 
-```
-$ npm install
-$ npm start
-````
+This is the solution to the Scrimba module 4 CSS Fundamentals Solo Project. I practiced how to pull data from an array of objects, how to render images using a for loop and how to manipulate the DOM with innerHTML. 
 
-Head over to https://vitejs.dev/ to learn more about using vite
+
+ ### Screenshot
+
+![Screenshot of news homepage mobile](images/biljanakotev.github.io_oldagram.io_oldagram_.png?raw=true "Mobile Screenshot")
+
+
+
+- Solution URL [Add solution URL here] (https://github.com/BiljanaKotev/frontend-mentor-news-homepage)
+- Live Site URL [Add live site URL here] (https://biljanakotev.github.io/oldagram/)
+
+- Semantic HTML5 markup
+- Flexbox
+- JavaScript
+
+
+## Author
+
+- Website - [Biljana](https://www.github/biljanakotev)
+- Frontend Mentor - [@BiljanaKotev](https://www.frontendmentor.io/profile/biljanakotev)
+- Twitter - [@BiljanaCodes](https://twitter.com/BiljanaCodes)
+- LinkedIn - [@BiljanaKotev](https://www.linkedin.com/in/biljana-kotevska/)
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
